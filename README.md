@@ -25,7 +25,8 @@
 
 
 - No junctions has the highest likelihood of accidents being more severe.
-  ![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
+
+ ![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
 
 
 
