@@ -10,6 +10,7 @@
 - The highest number of accidents occurs between 17:00 and 17:59.
 <br>
 - More than 50% of the accidents occur in just three types of locations: office areas, residential areas, and church areas.
+  <br>
 ![Description of the image](acc_areas.png)
 
 ![image](https://github.com/user-attachments/assets/f837008e-2fb6-44eb-89ae-115ebdadb4ce)
