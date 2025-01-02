@@ -11,7 +11,7 @@
 ![Description of the image](acc_areas.png)
 - Market areas have the highest average casualties (1.76), suggesting higher risks due to congestion or increased activity levels.
 
-
+- Changing Lane, No distancing, Driving carelessly, No priority to vehicle and Moving Backward are the major reasons for accidents.
 
 - Changing lanes is the leading cause of accidents in all three major areas where the majority of accidents occur.
 ![Description of the image](dis_areas.png)
