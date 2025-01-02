@@ -14,5 +14,9 @@
 - Snowy conditions pose the highest risk for accidents with multiple casualties, despite having fewer total accidents. 
 ![image](https://github.com/user-attachments/assets/f837008e-2fb6-44eb-89ae-115ebdadb4ce)
 
+- Changing lanes is the leading cause of accidents in all three major areas where the majority of accidents occur.
+![Description of the image](dis_areas.png)
+
+
 - Just three junction types—Crossing, No Junction, and Y-Shape Junction—contribute to approximately 75% of the total accidents.
 ![Description of the image](acc_junction.png)
