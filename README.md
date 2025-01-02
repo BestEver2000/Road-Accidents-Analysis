@@ -23,6 +23,12 @@
 - Just three junction types—Crossing, No Junction, and Y-Shape Junction—contribute to approximately 75% of the total accidents.
 ![Description of the image](acc_junction.png)
 
+
+- No junctions has the highest likelihood of accidents being more severe. 
+![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
+
+
+
 - Snowy conditions pose the highest risk for accidents with multiple casualties, despite having fewer total accidents. 
 ![image](https://github.com/user-attachments/assets/70babdc5-21b7-4cfc-b3de-1be0ff016e2f)
 
