@@ -17,7 +17,7 @@
 ![Description of the image](dis_areas.png)
 
 - Two-way (divided with broken lines) has a much higher accident frequency (35.82%) compared to two-way (divided with solid lines), which has a significantly lower accident rate (1.15%), suggesting that broken line roads are riskier and potentially less safe.
-![image](https://github.com/user-attachments/assets/5155543d-b0d2-4793-ad4d-7c91632df077)
+![Description of the image](acc_lanes.png)
 
 
 - Just three junction types—Crossing, No Junction, and Y-Shape Junction—contribute to approximately 75% of the total accidents.
