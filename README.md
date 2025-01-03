@@ -30,7 +30,6 @@
 
 
 - __No junctions has the highest likelihood of accidents being more severe.__
-
  ![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
 
 - __Turbo vehicles have the highest percentage of accidents involving more than one death, despite having relatively few overall cases. On the other hand, public vehicles with more than 45 seats show the lowest percentage of such severe accidents, which is unexpectedly low.__
