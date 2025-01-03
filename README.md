@@ -6,6 +6,10 @@
 
 ## Data Cleaning
 - Removed approximately 10 unnecessary columns, including 'Vehicle_driver_relation,' 'Fitness_of_Casualty,' 'Owner_of_vehicle,' and others, to streamline the dataset.
+- Removed duplicates rows in the dataset.
+- Checked each column for null and inconsistent values, then replaced the null values with 'Unknown' or 'Other' as appropriate.
+- Checked and corrected the data types of the columns where necessary.
+- Checked for outliers in the numerical columns.
 
 ## Analysis and Insights
 
