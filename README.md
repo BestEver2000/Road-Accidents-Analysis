@@ -34,6 +34,14 @@
 ![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
 
 
+### 4. Road Types and Safety
+
+- __Two-way (divided with broken lines) has a much higher accident frequency (35.82%) compared to two-way (divided with solid lines), which has a significantly lower accident rate (1.15%), suggesting that broken line roads are riskier and potentially less safe.__
+
+![Description of the image](acc_lanes.png)
+
+### 5. Causes of Accidents
+
 - __Changing Lane, No distancing, Driving carelessly, No priority to vehicle and Moving Backward are the major reasons for accidents.__
 
 ![Description of the image](acc_cause.png)
@@ -42,16 +50,14 @@
 
 ![Description of the image](dis_areas.png)
 
-- __Two-way (divided with broken lines) has a much higher accident frequency (35.82%) compared to two-way (divided with solid lines), which has a significantly lower accident rate (1.15%), suggesting that broken line roads are riskier and potentially less safe.__
-
-![Description of the image](acc_lanes.png)
 
 
-
-
-
+### 6. Vehicle-Specific Observations
 
 - __Turbo vehicles have the highest percentage of accidents involving more than one death, despite having relatively few overall cases. On the other hand, public vehicles with more than 45 seats show the lowest percentage of such severe accidents, which is unexpectedly low.__
+  
+
+### 7. Weather Conditions and Risks
 
 - __Snowy conditions pose the highest risk for accidents with multiple casualties, despite having fewer total accidents.__
 
