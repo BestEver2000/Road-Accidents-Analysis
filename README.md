@@ -5,8 +5,7 @@
 ## Tools and Technologies
 
 ## Data Cleaning
-
-
+- Removed approximately 10 unnecessary columns, including 'Vehicle_driver_relation,' 'Fitness_of_Casualty,' 'Owner_of_vehicle,' and others, to streamline the dataset.
 
 ## Analysis and Insights
 
