@@ -4,6 +4,9 @@
 
 
 ## Insights
+
+### Overview of Accident Frequency
+
 - __Friday experiences the highest number of accidents (2041), whereas Sunday records the lowest number of accidents (1467).__
 
 
