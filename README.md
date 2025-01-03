@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Road accidents continue to be a significant public safety concern, with numerous factors contributing to their frequency and severity and understanding the root causes and identifying high-risk areas remain challenges for policymakers and urban planners. This project provides a comprehensive analysis of road accidents to uncover key patterns, risk factors, and critical insights that contribute to accident frequency and severity. The analysis aims to identify high-risk areas, junction types, road conditions, and behavioral patterns associated with accidents
+This project provides a comprehensive analysis of road accidents to uncover key patterns, risk factors, and critical insights that contribute to accident frequency and severity. Project involves cleaning, analyzing, and visualizing road accident records collected from the police departments of Addis Ababa Sub-Cities for the years 2017 to 2020. The analysis aims to identify high-risk areas, junction types, road conditions, and behavioral patterns associated with accidents.
 
 ## Tools and Technologies
 
