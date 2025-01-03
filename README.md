@@ -35,7 +35,7 @@
 ![Description of the image](acc_junction.png)
 
 
-- __No junctions has the highest likelihood of accidents being more severe.__
+- __No junctions and Y-shaped junctions account for the highest number of accidents and casualties, while O-shaped and T-shaped junctions have relatively fewer accidents and a lower percentage of casualties involving more than one person.__
 
 ![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
 
