@@ -1,9 +1,14 @@
 # Road-Accidents-Analysis
 
+## Project Overview
+
+## Tools and Technologies
+
+## Data Cleaning
 
 
 
-## Insights
+## Analysis and Insights
 
 ### 1. Overview of Accident Frequency
 
