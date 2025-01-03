@@ -22,6 +22,18 @@
 
 - __Market areas have the highest average casualties (1.76), suggesting higher risks due to congestion or increased activity levels.__
 
+
+### 3. Junction Types and Risks
+
+- __Just three junction types—Crossing, No Junction, and Y-Shape Junction—contribute to approximately 75% of the total accidents.__
+
+![Description of the image](acc_junction.png)
+
+- __No junctions and Y-shaped junctions account for the highest number of accidents and casualties, while O-shaped and T-shaped junctions have relatively fewer accidents and a lower percentage of casualties involving more than one person.__
+
+![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
+
+
 - __Changing Lane, No distancing, Driving carelessly, No priority to vehicle and Moving Backward are the major reasons for accidents.__
 
 ![Description of the image](acc_cause.png)
@@ -35,14 +47,9 @@
 ![Description of the image](acc_lanes.png)
 
 
-- __Just three junction types—Crossing, No Junction, and Y-Shape Junction—contribute to approximately 75% of the total accidents.__
-
-![Description of the image](acc_junction.png)
 
 
-- __No junctions and Y-shaped junctions account for the highest number of accidents and casualties, while O-shaped and T-shaped junctions have relatively fewer accidents and a lower percentage of casualties involving more than one person.__
 
-![image](https://github.com/user-attachments/assets/101747d4-c7ca-43f2-a80f-8f652f1de5cd)
 
 - __Turbo vehicles have the highest percentage of accidents involving more than one death, despite having relatively few overall cases. On the other hand, public vehicles with more than 45 seats show the lowest percentage of such severe accidents, which is unexpectedly low.__
 
