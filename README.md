@@ -5,6 +5,11 @@
 This project provides a comprehensive analysis of road accidents to uncover key patterns, risk factors, and critical insights that contribute to accident frequency and severity. Project involves cleaning, analyzing, and visualizing road accident records collected from the police departments of Addis Ababa Sub-Cities for the years 2017 to 2020. The analysis aims to identify high-risk areas, junction types, road conditions, and behavioral patterns associated with accidents.
 
 ## Tools and Technologies
+- __Jupyter Notebook__ : For coding and data visualization.
+- __Pandas__ : For data manipulation and analysis.
+- __Matplotlib__ : For creating visualizations.
+- __Seaborn__ : For enhanced statistical data visualization.
+
 
 ## Data Cleaning
 - Removed approximately 10 unnecessary columns, including 'Vehicle_driver_relation,' 'Fitness_of_Casualty,' 'Owner_of_vehicle,' and others, to streamline the dataset.
