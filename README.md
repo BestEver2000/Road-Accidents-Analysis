@@ -79,3 +79,14 @@ ___
 
 ![image](https://github.com/user-attachments/assets/70babdc5-21b7-4cfc-b3de-1be0ff016e2f)
 
+
+## Recommendations
+- Focus safety awareness programs on Fridays and during peak hours (17:00–17:59) to address the high accident frequency.
+- Improve road signage and lighting at office areas, residential areas, and church areas to reduce accidents in these high-risk locations.
+- Prioritize safety interventions at Crossing, No Junction, and Y-Shape Junctions, as they account for 75% of total accidents.
+- Consider redesigning or improving safety at O-shaped and T-shaped junctions to further minimize casualties.
+- Reevaluate the use of broken lines on two-way roads, which show significantly higher accident frequencies, and consider implementing solid lines or stricter lane discipline measures.
+- Address major accident causes such as Changing Lane, No Distancing, and Driving Carelessly through stricter enforcement and driver education programs.
+- Investigate the reasons behind Turbo vehicles' higher accident severity and implement stricter safety regulations for these vehicles.
+- Increase road safety measures during snowy conditions, such as mandatory winter tires and reduced speed limits, to mitigate the higher risk of multi-casualty accidents.
+
